@@ -7,7 +7,4 @@ class AboutAdmin(SummernoteModelAdmin):
 
     summernote_fields = ('content',)
 
-
-
-
 # Register your models here.
